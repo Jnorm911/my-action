@@ -7,7 +7,7 @@ jobs:
       steps:
          - name: Hello world action step
            id: hello
-           uses: Jnorm011/my-action@v1
+           uses: Jnorm911/my-action@v1
            with:
               who-to-greet: "Josh"
          # Use the output from the `hello` step
